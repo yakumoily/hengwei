@@ -24,5 +24,6 @@ requests.interceptors.response.use(function (response) {
   // 对响应错误做点什么
   return Promise.reject(error)
 })
+//git getBannerList() new Person(name,old,blanch,merge,)
 
 export default requests
