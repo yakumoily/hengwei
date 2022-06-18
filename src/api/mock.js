@@ -25,5 +25,6 @@ requests.interceptors.response.use(function (response) {
   return Promise.reject(error)
 })
 //git getBannerList() new Person(name,old,blanch,merge,)
+// git 第二次提交
 
 export default requests
